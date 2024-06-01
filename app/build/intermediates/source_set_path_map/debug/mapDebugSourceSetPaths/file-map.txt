@@ -1,0 +1,49 @@
+com.example.jetpackapicallingmvvm.app-core-ktx-1.13.1-0 /Users/mac/.gradle/caches/transforms-4/110beb0d925af48ee0bdd26f9ed6291b/transformed/core-ktx-1.13.1/res
+com.example.jetpackapicallingmvvm.app-animation-release-1 /Users/mac/.gradle/caches/transforms-4/1446d6e9c171b60cc169a78b7cd6936e/transformed/animation-release/res
+com.example.jetpackapicallingmvvm.app-activity-ktx-1.9.0-2 /Users/mac/.gradle/caches/transforms-4/151937d9b9aecd1e2b59d9da8d31c7be/transformed/activity-ktx-1.9.0/res
+com.example.jetpackapicallingmvvm.app-foundation-release-3 /Users/mac/.gradle/caches/transforms-4/19a5fef08504e3841c9002bfbc19315b/transformed/foundation-release/res
+com.example.jetpackapicallingmvvm.app-savedstate-1.2.1-4 /Users/mac/.gradle/caches/transforms-4/27b59345a87c116833cd6d52d495f34f/transformed/savedstate-1.2.1/res
+com.example.jetpackapicallingmvvm.app-activity-1.9.0-5 /Users/mac/.gradle/caches/transforms-4/29126103d67917a013636ae42f735854/transformed/activity-1.9.0/res
+com.example.jetpackapicallingmvvm.app-lifecycle-viewmodel-savedstate-2.8.0-6 /Users/mac/.gradle/caches/transforms-4/345df5388abf5e86132a8d74a1b544cb/transformed/lifecycle-viewmodel-savedstate-2.8.0/res
+com.example.jetpackapicallingmvvm.app-lifecycle-runtime-ktx-release-7 /Users/mac/.gradle/caches/transforms-4/3c9404a7358176c81b7af08833a8ed62/transformed/lifecycle-runtime-ktx-release/res
+com.example.jetpackapicallingmvvm.app-foundation-layout-release-8 /Users/mac/.gradle/caches/transforms-4/3e2800f153ada11bddcf96670055b9bd/transformed/foundation-layout-release/res
+com.example.jetpackapicallingmvvm.app-material-icons-core-release-9 /Users/mac/.gradle/caches/transforms-4/416dee9a4a6832b8f9f82cfb119cb28e/transformed/material-icons-core-release/res
+com.example.jetpackapicallingmvvm.app-material-ripple-release-10 /Users/mac/.gradle/caches/transforms-4/42a311d4c3062408186c73507adab94b/transformed/material-ripple-release/res
+com.example.jetpackapicallingmvvm.app-material-release-11 /Users/mac/.gradle/caches/transforms-4/545f7286f318eafd08477c69aa027f72/transformed/material-release/res
+com.example.jetpackapicallingmvvm.app-lifecycle-runtime-release-12 /Users/mac/.gradle/caches/transforms-4/6d1df487c5a92144f9bbece02c62510e/transformed/lifecycle-runtime-release/res
+com.example.jetpackapicallingmvvm.app-animation-core-release-13 /Users/mac/.gradle/caches/transforms-4/7343069a0c69ef37a79f885f091b3736/transformed/animation-core-release/res
+com.example.jetpackapicallingmvvm.app-startup-runtime-1.1.1-14 /Users/mac/.gradle/caches/transforms-4/737916e6e015f51b9644dd94155ac929/transformed/startup-runtime-1.1.1/res
+com.example.jetpackapicallingmvvm.app-ui-text-release-15 /Users/mac/.gradle/caches/transforms-4/7667930aa162ecb3672fddd61ab3bd3d/transformed/ui-text-release/res
+com.example.jetpackapicallingmvvm.app-core-1.13.1-16 /Users/mac/.gradle/caches/transforms-4/772ecb2fcda511590afa1c8bc4dd6477/transformed/core-1.13.1/res
+com.example.jetpackapicallingmvvm.app-ui-graphics-release-17 /Users/mac/.gradle/caches/transforms-4/7775dbb5e635b3d17d80550530481c16/transformed/ui-graphics-release/res
+com.example.jetpackapicallingmvvm.app-material3-1.1.1-18 /Users/mac/.gradle/caches/transforms-4/8a2465ab1f48c7347bf332bb8a274a97/transformed/material3-1.1.1/res
+com.example.jetpackapicallingmvvm.app-ui-test-manifest-1.5.0-19 /Users/mac/.gradle/caches/transforms-4/92bdc5ce0484c12c909fbe34a93c6a26/transformed/ui-test-manifest-1.5.0/res
+com.example.jetpackapicallingmvvm.app-customview-poolingcontainer-1.0.0-20 /Users/mac/.gradle/caches/transforms-4/92c85900c17786557f2005ba0ac9345c/transformed/customview-poolingcontainer-1.0.0/res
+com.example.jetpackapicallingmvvm.app-ui-release-21 /Users/mac/.gradle/caches/transforms-4/9304f0fdfe715fb9f2a226b9d267eddc/transformed/ui-release/res
+com.example.jetpackapicallingmvvm.app-ui-tooling-data-release-22 /Users/mac/.gradle/caches/transforms-4/98d96042a4b5c6560f563d2ed491a754/transformed/ui-tooling-data-release/res
+com.example.jetpackapicallingmvvm.app-ui-unit-release-23 /Users/mac/.gradle/caches/transforms-4/ac0df2654ae30d882e24b9b7f64699a7/transformed/ui-unit-release/res
+com.example.jetpackapicallingmvvm.app-activity-compose-1.9.0-24 /Users/mac/.gradle/caches/transforms-4/ac5045afda42e1b82e82ea50e973f7f3/transformed/activity-compose-1.9.0/res
+com.example.jetpackapicallingmvvm.app-savedstate-ktx-1.2.1-25 /Users/mac/.gradle/caches/transforms-4/b21274f42458d2e2142091f3507fdffe/transformed/savedstate-ktx-1.2.1/res
+com.example.jetpackapicallingmvvm.app-ui-geometry-release-26 /Users/mac/.gradle/caches/transforms-4/b4a2bfe0d34673fc86f34895c7bd40db/transformed/ui-geometry-release/res
+com.example.jetpackapicallingmvvm.app-lifecycle-livedata-2.8.0-27 /Users/mac/.gradle/caches/transforms-4/b868214e6c816b9dcab6c579ce88da92/transformed/lifecycle-livedata-2.8.0/res
+com.example.jetpackapicallingmvvm.app-lifecycle-livedata-core-2.8.0-28 /Users/mac/.gradle/caches/transforms-4/b87ba2ff74934a01c5b02c95a9245cdd/transformed/lifecycle-livedata-core-2.8.0/res
+com.example.jetpackapicallingmvvm.app-annotation-experimental-1.4.0-29 /Users/mac/.gradle/caches/transforms-4/c4761f8f84b7dfe7cd5a914848bebaa3/transformed/annotation-experimental-1.4.0/res
+com.example.jetpackapicallingmvvm.app-runtime-release-30 /Users/mac/.gradle/caches/transforms-4/c9dcf50111f32376297fdef43228d220/transformed/runtime-release/res
+com.example.jetpackapicallingmvvm.app-lifecycle-process-2.8.0-31 /Users/mac/.gradle/caches/transforms-4/caf30fcf5483cc93c6e53a90c74c1dff/transformed/lifecycle-process-2.8.0/res
+com.example.jetpackapicallingmvvm.app-runtime-saveable-release-32 /Users/mac/.gradle/caches/transforms-4/cb88353a3a822aa1ded58c320f542460/transformed/runtime-saveable-release/res
+com.example.jetpackapicallingmvvm.app-runtime-livedata-1.6.7-33 /Users/mac/.gradle/caches/transforms-4/cbdfb979b09a3c61e70622cb4368fbc9/transformed/runtime-livedata-1.6.7/res
+com.example.jetpackapicallingmvvm.app-emoji2-1.4.0-34 /Users/mac/.gradle/caches/transforms-4/cc17c44ff791093cbe7278c01ff94662/transformed/emoji2-1.4.0/res
+com.example.jetpackapicallingmvvm.app-ui-tooling-release-35 /Users/mac/.gradle/caches/transforms-4/cd3ff735588ba0fc4e53198fe6608195/transformed/ui-tooling-release/res
+com.example.jetpackapicallingmvvm.app-lifecycle-viewmodel-ktx-2.8.0-36 /Users/mac/.gradle/caches/transforms-4/ce02864978e59b7ab4383efa3577cbd9/transformed/lifecycle-viewmodel-ktx-2.8.0/res
+com.example.jetpackapicallingmvvm.app-core-runtime-2.2.0-37 /Users/mac/.gradle/caches/transforms-4/cf981a75a7807353419f29816abe994c/transformed/core-runtime-2.2.0/res
+com.example.jetpackapicallingmvvm.app-ui-util-release-38 /Users/mac/.gradle/caches/transforms-4/d160b66ccbcee4806d2c031fc99c7349/transformed/ui-util-release/res
+com.example.jetpackapicallingmvvm.app-lifecycle-viewmodel-release-39 /Users/mac/.gradle/caches/transforms-4/d6ea12736147f7da04efc8cfed6b8b8f/transformed/lifecycle-viewmodel-release/res
+com.example.jetpackapicallingmvvm.app-ui-tooling-preview-release-40 /Users/mac/.gradle/caches/transforms-4/e56f077bd9fb6552acd19ebcbe2517f3/transformed/ui-tooling-preview-release/res
+com.example.jetpackapicallingmvvm.app-profileinstaller-1.3.1-41 /Users/mac/.gradle/caches/transforms-4/ecdc4ccd298a1eeaec96d10eced08b83/transformed/profileinstaller-1.3.1/res
+com.example.jetpackapicallingmvvm.app-lifecycle-livedata-core-ktx-2.8.0-42 /Users/mac/.gradle/caches/transforms-4/fd50a8dc57c53cd04ac96644677180d4/transformed/lifecycle-livedata-core-ktx-2.8.0/res
+com.example.jetpackapicallingmvvm.app-resValues-43 /Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/generated/res/resValues/debug
+com.example.jetpackapicallingmvvm.app-packageDebugResources-44 /Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.jetpackapicallingmvvm.app-packageDebugResources-45 /Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.jetpackapicallingmvvm.app-debug-46 /Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.jetpackapicallingmvvm.app-debug-47 /Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/src/debug/res
+com.example.jetpackapicallingmvvm.app-main-48 /Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/src/main/res
