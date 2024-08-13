@@ -3,98 +3,123 @@
 3    package="com.example.jetpackapicallingmvvm.test" >
 4
 5    <uses-sdk
-5-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:5:5-74
+5-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:5:5-74
 6        android:minSdkVersion="24"
-6-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:5:15-41
+6-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:5:15-41
 7        android:targetSdkVersion="34" />
-7-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:5:42-71
+7-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:11:5-15:83
-10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:11:22-76
+9-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:11:5-15:83
+10        android:name="com.karumi.shot.ShotTestRunner"
+10-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:11:22-67
 11        android:functionalTest="false"
-11-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:14:22-52
+11-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:13:22-53
+12-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:13:22-53
 13        android:label="Tests for com.example.jetpackapicallingmvvm"
-13-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:15:22-81
+13-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:15:22-81
 14        android:targetPackage="com.example.jetpackapicallingmvvm" />
-14-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:12:22-79
+14-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:12:22-79
 15
-16    <uses-permission android:name="android.permission.REORDER_TASKS" />
-16-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:24:5-72
-16-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:24:22-69
-17
-18    <queries>
-18-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/f99ff57ab3cfecf003e2b291b9613bce/transformed/runner-1.5.2/AndroidManifest.xml:24:5-28:15
-19        <package android:name="androidx.test.orchestrator" />
-19-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/f99ff57ab3cfecf003e2b291b9613bce/transformed/runner-1.5.2/AndroidManifest.xml:25:9-62
-19-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/f99ff57ab3cfecf003e2b291b9613bce/transformed/runner-1.5.2/AndroidManifest.xml:25:18-59
-20        <package android:name="androidx.test.services" />
-20-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/f99ff57ab3cfecf003e2b291b9613bce/transformed/runner-1.5.2/AndroidManifest.xml:26:9-58
-20-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/f99ff57ab3cfecf003e2b291b9613bce/transformed/runner-1.5.2/AndroidManifest.xml:26:18-55
-21        <package android:name="com.google.android.apps.common.testing.services" />
-21-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/f99ff57ab3cfecf003e2b291b9613bce/transformed/runner-1.5.2/AndroidManifest.xml:27:9-83
-21-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/f99ff57ab3cfecf003e2b291b9613bce/transformed/runner-1.5.2/AndroidManifest.xml:27:18-80
-22    </queries>
-23
-24    <application
-24-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:7:5-9:19
-25        android:debuggable="true"
-26        android:extractNativeLibs="false" >
-27        <uses-library android:name="android.test.runner" />
-27-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:8:9-60
-27-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15343448386690304781.xml:8:23-57
-28
-29        <activity
-29-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:27:9-34:20
-30            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
-30-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:28:13-99
-31            android:exported="true"
-31-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:29:13-36
-32            android:theme="@style/WhiteBackgroundTheme" >
-32-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:30:13-56
-33            <intent-filter android:priority="-100" >
-33-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
-33-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
-34                <category android:name="android.intent.category.LAUNCHER" />
-34-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:32:17-77
-34-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:32:27-74
-35            </intent-filter>
-36        </activity>
-37        <activity
-37-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:35:9-42:20
-38            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
-38-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:36:13-95
-39            android:exported="true"
-39-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:37:13-36
-40            android:theme="@style/WhiteBackgroundTheme" >
-40-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:38:13-56
-41            <intent-filter android:priority="-100" >
-41-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
-41-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
-42                <category android:name="android.intent.category.LAUNCHER" />
-42-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:32:17-77
-42-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:32:27-74
-43            </intent-filter>
-44        </activity>
-45        <activity
-45-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:43:9-50:20
-46            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
-46-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:44:13-103
-47            android:exported="true"
-47-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:45:13-36
-48            android:theme="@style/WhiteBackgroundDialogTheme" >
-48-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:46:13-62
-49            <intent-filter android:priority="-100" >
-49-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
-49-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
-50                <category android:name="android.intent.category.LAUNCHER" />
-50-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:32:17-77
-50-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/7c51241ca01260243044c8f080e4d21e/transformed/core-1.5.0/AndroidManifest.xml:32:27-74
-51            </intent-filter>
-52        </activity>
-53    </application>
-54
-55</manifest>
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->[com.facebook.testing.screenshot:core:0.14.0] /Users/mac/.gradle/caches/transforms-4/1aa5c5fa5d8a901859ffe84b4c0bee4c/transformed/core-0.14.0/AndroidManifest.xml:9:5-81
+16-->[com.facebook.testing.screenshot:core:0.14.0] /Users/mac/.gradle/caches/transforms-4/1aa5c5fa5d8a901859ffe84b4c0bee4c/transformed/core-0.14.0/AndroidManifest.xml:9:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->[com.facebook.testing.screenshot:core:0.14.0] /Users/mac/.gradle/caches/transforms-4/1aa5c5fa5d8a901859ffe84b4c0bee4c/transformed/core-0.14.0/AndroidManifest.xml:10:5-80
+17-->[com.facebook.testing.screenshot:core:0.14.0] /Users/mac/.gradle/caches/transforms-4/1aa5c5fa5d8a901859ffe84b4c0bee4c/transformed/core-0.14.0/AndroidManifest.xml:10:22-77
+18    <uses-permission android:name="android.permission.REORDER_TASKS" />
+18-->[androidx.fragment:fragment-testing-manifest:1.6.0] /Users/mac/.gradle/caches/transforms-4/ace0218cd330f5668dde8d58bfc3291f/transformed/fragment-testing-manifest-1.6.0/AndroidManifest.xml:23:5-72
+18-->[androidx.fragment:fragment-testing-manifest:1.6.0] /Users/mac/.gradle/caches/transforms-4/ace0218cd330f5668dde8d58bfc3291f/transformed/fragment-testing-manifest-1.6.0/AndroidManifest.xml:23:22-69
+19
+20    <queries>
+20-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/c6d0a5103ff5637a9f0b7cbcff067ac2/transformed/runner-1.5.2/AndroidManifest.xml:24:5-28:15
+21        <package android:name="androidx.test.orchestrator" />
+21-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/c6d0a5103ff5637a9f0b7cbcff067ac2/transformed/runner-1.5.2/AndroidManifest.xml:25:9-62
+21-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/c6d0a5103ff5637a9f0b7cbcff067ac2/transformed/runner-1.5.2/AndroidManifest.xml:25:18-59
+22        <package android:name="androidx.test.services" />
+22-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/c6d0a5103ff5637a9f0b7cbcff067ac2/transformed/runner-1.5.2/AndroidManifest.xml:26:9-58
+22-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/c6d0a5103ff5637a9f0b7cbcff067ac2/transformed/runner-1.5.2/AndroidManifest.xml:26:18-55
+23        <package android:name="com.google.android.apps.common.testing.services" />
+23-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/c6d0a5103ff5637a9f0b7cbcff067ac2/transformed/runner-1.5.2/AndroidManifest.xml:27:9-83
+23-->[androidx.test:runner:1.5.2] /Users/mac/.gradle/caches/transforms-4/c6d0a5103ff5637a9f0b7cbcff067ac2/transformed/runner-1.5.2/AndroidManifest.xml:27:18-80
+24    </queries>
+25
+26    <application
+26-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:7:5-9:19
+27        android:debuggable="true"
+28        android:extractNativeLibs="false" >
+29        <uses-library android:name="android.test.runner" />
+29-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:8:9-60
+29-->/Users/mac/Downloads/project shivam backup/Jetpack Compose Projects/JetpackApiCallingmvvm/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11044271835100977654.xml:8:23-57
+30
+31        <activity
+31-->[androidx.fragment:fragment-testing-manifest:1.6.0] /Users/mac/.gradle/caches/transforms-4/ace0218cd330f5668dde8d58bfc3291f/transformed/fragment-testing-manifest-1.6.0/AndroidManifest.xml:26:9-35:20
+32            android:name="androidx.fragment.app.testing.EmptyFragmentActivity"
+32-->[androidx.fragment:fragment-testing-manifest:1.6.0] /Users/mac/.gradle/caches/transforms-4/ace0218cd330f5668dde8d58bfc3291f/transformed/fragment-testing-manifest-1.6.0/AndroidManifest.xml:27:13-79
+33            android:exported="true"
+33-->[androidx.fragment:fragment-testing-manifest:1.6.0] /Users/mac/.gradle/caches/transforms-4/ace0218cd330f5668dde8d58bfc3291f/transformed/fragment-testing-manifest-1.6.0/AndroidManifest.xml:28:13-36
+34            android:multiprocess="true"
+34-->[androidx.fragment:fragment-testing-manifest:1.6.0] /Users/mac/.gradle/caches/transforms-4/ace0218cd330f5668dde8d58bfc3291f/transformed/fragment-testing-manifest-1.6.0/AndroidManifest.xml:29:13-40
+35            android:taskAffinity=""
+35-->[androidx.fragment:fragment-testing-manifest:1.6.0] /Users/mac/.gradle/caches/transforms-4/ace0218cd330f5668dde8d58bfc3291f/transformed/fragment-testing-manifest-1.6.0/AndroidManifest.xml:30:13-36
+36            android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme" >
+36-->[androidx.fragment:fragment-testing-manifest:1.6.0] /Users/mac/.gradle/caches/transforms-4/ace0218cd330f5668dde8d58bfc3291f/transformed/fragment-testing-manifest-1.6.0/AndroidManifest.xml:31:13-78
+37            <intent-filter>
+37-->[androidx.fragment:fragment-testing-manifest:1.6.0] /Users/mac/.gradle/caches/transforms-4/ace0218cd330f5668dde8d58bfc3291f/transformed/fragment-testing-manifest-1.6.0/AndroidManifest.xml:32:13-34:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->[androidx.fragment:fragment-testing-manifest:1.6.0] /Users/mac/.gradle/caches/transforms-4/ace0218cd330f5668dde8d58bfc3291f/transformed/fragment-testing-manifest-1.6.0/AndroidManifest.xml:33:17-69
+38-->[androidx.fragment:fragment-testing-manifest:1.6.0] /Users/mac/.gradle/caches/transforms-4/ace0218cd330f5668dde8d58bfc3291f/transformed/fragment-testing-manifest-1.6.0/AndroidManifest.xml:33:25-66
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:27:9-34:20
+42            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+42-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:28:13-99
+43            android:exported="true"
+43-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:29:13-36
+44            android:theme="@style/WhiteBackgroundTheme" >
+44-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:30:13-56
+45            <intent-filter android:priority="-100" >
+45-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+45-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:32:17-77
+46-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:32:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:35:9-42:20
+50            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+50-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:36:13-95
+51            android:exported="true"
+51-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:37:13-36
+52            android:theme="@style/WhiteBackgroundTheme" >
+52-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:38:13-56
+53            <intent-filter android:priority="-100" >
+53-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+53-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:32:17-77
+54-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:32:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:43:9-50:20
+58            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+58-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:44:13-103
+59            android:exported="true"
+59-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:45:13-36
+60            android:theme="@style/WhiteBackgroundDialogTheme" >
+60-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:46:13-62
+61            <intent-filter android:priority="-100" >
+61-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+61-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:32:17-77
+62-->[androidx.test:core:1.5.0] /Users/mac/.gradle/caches/transforms-4/95258e353dc9444d0fdcf9e0e15a8532/transformed/core-1.5.0/AndroidManifest.xml:32:27-74
+63            </intent-filter>
+64        </activity>
+65    </application>
+66
+67</manifest>
